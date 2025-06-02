@@ -1,4 +1,4 @@
-#Real vs Fake Face Classifier (PyTorch)
+Real vs Fake Face Classifier (PyTorch)
 This project uses a pretrained ResNet101 model to classify face images as real or fake. Transfer learning is applied for efficient training.
 
 Features
